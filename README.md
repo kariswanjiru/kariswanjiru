@@ -1,3 +1,7 @@
+<div>
+  <img src='' alt="Image"/>
+</div>
+
 - 👋 Hi, I’m @kariswanjiru
 - 👀 I’m interested in Software devlopment.
 - 🌱 I’m currently learning data science (using both R and Python) and Front-end development.
