@@ -1,5 +1,5 @@
 <div>
-  <img src="./X-1.jpg" alt="Image"/>
+  <img src="https://github.com/kariswanjiru/kariswanjiru/blob/main/X%20-%201.jpg" alt="Image"/>
 </div>
 
 - 👋 Hi, I’m @kariswanjiru
