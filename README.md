@@ -1,4 +1,4 @@
-<div>
+<div style="width:100vw">
   <img src="https://github.com/kariswanjiru/kariswanjiru/blob/main/X%20-%201.jpg" alt="Image"/>
 </div>
 
