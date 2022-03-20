@@ -1,5 +1,5 @@
 <div>
-  <img src='' alt="Image"/>
+  <img src="./X-1.jpg" alt="Image"/>
 </div>
 
 - 👋 Hi, I’m @kariswanjiru
