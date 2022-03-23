@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="600" height="300"/>
-</div>
+
 
 <div align='center' >
   <img src="https://github.com/kariswanjiru/kariswanjiru/blob/main/X%20-%201.jpg" alt="Image" width='600px'/>
