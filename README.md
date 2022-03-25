@@ -1,7 +1,7 @@
 
 
 <div align='center' >
-  <img src="https://github.com/kariswanjiru/kariswanjiru/blob/main/X%20-%201.png" alt="Image" width='600px'/>
+  <img src="https://github.com/kariswanjiru/kariswanjiru/blob/main/X%20-%201.jpg" alt="Image" width='600px'/>
 </div>
 
 <div id="badges" align='center'>
