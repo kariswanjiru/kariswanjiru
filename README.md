@@ -10,9 +10,12 @@
    
    
 - I’m @kariswanjiru
-- 👀 I’m interested in Software devlopment.
+- 👀 I’m interested in Data Science and Software devlopment.
+- 🌍  I'm based in Nairobi ,Kenya
+- 📫 You can contact me at [wanjiruestar@gmail.com](mailto:wanjiruestar@gmail.com)
+- 🤝  I'm open to collaborating on Interesting projects
 - 🌱 I’m currently learning data science (using both R and Python) and Front-end development.
-- 📫 How to reach me ... @Wanjiruestar on Twitter
+
 
 ### Skills
 <p align="left">
@@ -44,7 +47,7 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kariswanjiru"><img src="https://github-readme-stats.vercel.app/api?username=kariswanjiru&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=000000&icon_color=000000&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="kariswanjiru's GitHub stats" /></a>
+<a href="http://www.github.com/kariswanjiru"><img src="https://github-readme-stats.vercel.app/api?username=kariswanjiru&show_icons=true&hide=stars,&count_private=true&title_color=ffffff&text_color=000000&icon_color=000000&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="kariswanjiru's GitHub stats" /></a>
 
 <a href="http://www.github.com/kariswanjiru"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kariswanjiru&stroke=000000&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=000000&currStreakLabel=ffffff&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
