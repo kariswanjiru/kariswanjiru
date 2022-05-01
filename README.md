@@ -9,7 +9,7 @@
    Hi 👋, 
    
    
-- I’m @kariswanjiru
+- I’m [@kariswanjiru](https://github.com/kariswanjiru)
 - 👀 I’m interested in Data Science and Software devlopment.
 - 🌍  I'm based in Nairobi ,Kenya
 - 📫 You can contact me at [wanjiruestar@gmail.com](mailto:wanjiruestar@gmail.com)
