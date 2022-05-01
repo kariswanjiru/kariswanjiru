@@ -47,7 +47,7 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kariswanjiru"><img src="https://github-readme-stats.vercel.app/api?username=kariswanjiru&show_icons=true&hide=stars,&count_private=true&title_color=ffffff&text_color=000000&icon_color=000000&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="kariswanjiru's GitHub stats" /></a>
+<a href="http://www.github.com/kariswanjiru"><img src="https://github-readme-stats.vercel.app/api?username=kariswanjiru&show_icons=true&hide=stars,&count_private=true&title_color=ffffff&text_color=000000&icon_color=ffffff&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="kariswanjiru's GitHub stats" /></a>
 
 <a href="http://www.github.com/kariswanjiru"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kariswanjiru&stroke=000000&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=000000&currStreakLabel=ffffff&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
