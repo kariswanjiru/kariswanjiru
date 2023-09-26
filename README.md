@@ -10,11 +10,11 @@
    
    
 - I’m [@kariswanjiru](https://github.com/kariswanjiru)
-- 👀 I’m interested in Data Science and Software devlopment.
+- 👀 I’m interested in Data Science and Software Engineering.
 - 🌍  I'm based in Nairobi ,Kenya
 - 📫 You can contact me at [wanjiruestar@gmail.com](mailto:wanjiruestar@gmail.com)
 - 🤝  I'm open to collaborating on Interesting projects
-- 🌱 I’m currently learning data science (using both R and Python) and Front-end development.
+- 🌱 I’m currently learning data science (using both R and Python) and Back-end development.
 
 
 ### Skills
